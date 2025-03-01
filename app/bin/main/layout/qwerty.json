@@ -1,0 +1,147 @@
+{
+    "name": "QWERTY",
+    "geometry": {
+      "rows": 5,
+      "columns": 14,
+      "keys": [
+        { "label": "`",  "row": 0, "column": 0,  "finger": "PINKY",  "modifier": false },
+        { "label": "1",  "row": 0, "column": 1,  "finger": "PINKY",  "modifier": false },
+        { "label": "2",  "row": 0, "column": 2,  "finger": "PINKY",  "modifier": false },
+        { "label": "3",  "row": 0, "column": 3,  "finger": "RING",   "modifier": false },
+        { "label": "4",  "row": 0, "column": 4,  "finger": "MIDDLE", "modifier": false },
+        { "label": "5",  "row": 0, "column": 5,  "finger": "INDEX",  "modifier": false },
+        { "label": "6",  "row": 0, "column": 6,  "finger": "INDEX",  "modifier": false },
+        { "label": "7",  "row": 0, "column": 7,  "finger": "INDEX",  "modifier": false },
+        { "label": "8",  "row": 0, "column": 8,  "finger": "INDEX",  "modifier": false },
+        { "label": "9",  "row": 0, "column": 9,  "finger": "MIDDLE", "modifier": false },
+        { "label": "0",  "row": 0, "column": 10, "finger": "RING",   "modifier": false },
+        { "label": "-",  "row": 0, "column": 11, "finger": "PINKY",  "modifier": false },
+        { "label": "=",  "row": 0, "column": 12, "finger": "PINKY",  "modifier": false },
+  
+        { "label": "Q",  "row": 1, "column": 2,  "finger": "PINKY",  "modifier": false },
+        { "label": "W",  "row": 1, "column": 3,  "finger": "RING",   "modifier": false },
+        { "label": "E",  "row": 1, "column": 4,  "finger": "MIDDLE", "modifier": false },
+        { "label": "R",  "row": 1, "column": 5,  "finger": "INDEX",  "modifier": false },
+        { "label": "T",  "row": 1, "column": 6,  "finger": "INDEX",  "modifier": false },
+        { "label": "Y",  "row": 1, "column": 7,  "finger": "INDEX",  "modifier": false },
+        { "label": "U",  "row": 1, "column": 8,  "finger": "INDEX",  "modifier": false },
+        { "label": "I",  "row": 1, "column": 9,  "finger": "MIDDLE", "modifier": false },
+        { "label": "O",  "row": 1, "column": 10,  "finger": "RING",   "modifier": false },
+        { "label": "P",  "row": 1, "column": 11,  "finger": "PINKY",  "modifier": false },
+        { "label": "[",  "row": 1, "column": 12, "finger": "PINKY",  "modifier": false },
+        { "label": "]",  "row": 1, "column": 13, "finger": "PINKY",  "modifier": false },
+        { "label": "\\", "row": 1, "column": 14, "finger": "PINKY",  "modifier": false },
+  
+        { "label": "A",  "row": 2, "column": 2,  "finger": "PINKY",  "modifier": false },
+        { "label": "S",  "row": 2, "column": 3,  "finger": "RING",   "modifier": false },
+        { "label": "D",  "row": 2, "column": 4,  "finger": "MIDDLE", "modifier": false },
+        { "label": "F",  "row": 2, "column": 5,  "finger": "INDEX",  "modifier": false },
+        { "label": "G",  "row": 2, "column": 6,  "finger": "INDEX",  "modifier": false },
+        { "label": "H",  "row": 2, "column": 7,  "finger": "INDEX",  "modifier": false },
+        { "label": "J",  "row": 2, "column": 8,  "finger": "INDEX",  "modifier": false },
+        { "label": "K",  "row": 2, "column": 9,  "finger": "MIDDLE", "modifier": false },
+        { "label": "L",  "row": 2, "column": 10,  "finger": "RING",   "modifier": false },
+        { "label": ";",  "row": 2, "column": 11,  "finger": "PINKY",  "modifier": false },
+        { "label": "'",  "row": 2, "column": 12, "finger": "PINKY",  "modifier": false },
+        
+        { "label": "Shift", "row": 3, "column": 0, "finger": "PINKY", "modifier": true },
+        { "label": "Z",     "row": 3, "column": 2, "finger": "RING",  "modifier": false },
+        { "label": "X",     "row": 3, "column": 3, "finger": "MIDDLE","modifier": false },
+        { "label": "C",     "row": 3, "column": 4, "finger": "INDEX", "modifier": false },
+        { "label": "V",     "row": 3, "column": 5, "finger": "INDEX", "modifier": false },
+        { "label": "B",     "row": 3, "column": 6, "finger": "INDEX", "modifier": false },
+        { "label": "N",     "row": 3, "column": 7, "finger": "INDEX", "modifier": false },
+        { "label": "M",     "row": 3, "column": 8, "finger": "MIDDLE","modifier": false },
+        { "label": ",",     "row": 3, "column": 9, "finger": "RING",  "modifier": false },
+        { "label": ".",     "row": 3, "column": 10, "finger": "PINKY", "modifier": false },
+        { "label": "/",     "row": 3, "column": 11,"finger": "PINKY", "modifier": false }
+  
+      ]
+    },
+  
+    "mappings": [
+      { "keyLabel": "`",  "layerMapping": { "NORMAL": "`",  "SHIFT": "~" } },
+      { "keyLabel": "1",  "layerMapping": { "NORMAL": "1",  "SHIFT": "!" } },
+      { "keyLabel": "2",  "layerMapping": { "NORMAL": "2",  "SHIFT": "@" } },
+      { "keyLabel": "3",  "layerMapping": { "NORMAL": "3",  "SHIFT": "#" } },
+      { "keyLabel": "4",  "layerMapping": { "NORMAL": "4",  "SHIFT": "$" } },
+      { "keyLabel": "5",  "layerMapping": { "NORMAL": "5",  "SHIFT": "%" } },
+      { "keyLabel": "6",  "layerMapping": { "NORMAL": "6",  "SHIFT": "^" } },
+      { "keyLabel": "7",  "layerMapping": { "NORMAL": "7",  "SHIFT": "&" } },
+      { "keyLabel": "8",  "layerMapping": { "NORMAL": "8",  "SHIFT": "*" } },
+      { "keyLabel": "9",  "layerMapping": { "NORMAL": "9",  "SHIFT": "(" } },
+      { "keyLabel": "0",  "layerMapping": { "NORMAL": "0",  "SHIFT": ")" } },
+      { "keyLabel": "-",  "layerMapping": { "NORMAL": "-",  "SHIFT": "_" } },
+      { "keyLabel": "=",  "layerMapping": { "NORMAL": "=",  "SHIFT": "+" } },
+  
+      { "keyLabel": "Q",  "layerMapping": { "NORMAL": "q",  "SHIFT": "Q" } },
+      { "keyLabel": "W",  "layerMapping": { "NORMAL": "w",  "SHIFT": "W" } },
+      { "keyLabel": "E",  "layerMapping": { "NORMAL": "e",  "SHIFT": "E" } },
+      { "keyLabel": "R",  "layerMapping": { "NORMAL": "r",  "SHIFT": "R" } },
+      { "keyLabel": "T",  "layerMapping": { "NORMAL": "t",  "SHIFT": "T" } },
+      { "keyLabel": "Y",  "layerMapping": { "NORMAL": "y",  "SHIFT": "Y" } },
+      { "keyLabel": "U",  "layerMapping": { "NORMAL": "u",  "SHIFT": "U" } },
+      { "keyLabel": "I",  "layerMapping": { "NORMAL": "i",  "SHIFT": "I" } },
+      { "keyLabel": "O",  "layerMapping": { "NORMAL": "o",  "SHIFT": "O" } },
+      { "keyLabel": "P",  "layerMapping": { "NORMAL": "p",  "SHIFT": "P" } },
+      { "keyLabel": "[",  "layerMapping": { "NORMAL": "[",  "SHIFT": "{" } },
+      { "keyLabel": "]",  "layerMapping": { "NORMAL": "]",  "SHIFT": "}" } },
+      { "keyLabel": "\\", "layerMapping": { "NORMAL": "\\", "SHIFT": "|" } },
+  
+      { "keyLabel": "A",  "layerMapping": { "NORMAL": "a",  "SHIFT": "A" } },
+      { "keyLabel": "S",  "layerMapping": { "NORMAL": "s",  "SHIFT": "S" } },
+      { "keyLabel": "D",  "layerMapping": { "NORMAL": "d",  "SHIFT": "D" } },
+      { "keyLabel": "F",  "layerMapping": { "NORMAL": "f",  "SHIFT": "F" } },
+      { "keyLabel": "G",  "layerMapping": { "NORMAL": "g",  "SHIFT": "G" } },
+      { "keyLabel": "H",  "layerMapping": { "NORMAL": "h",  "SHIFT": "H" } },
+      { "keyLabel": "J",  "layerMapping": { "NORMAL": "j",  "SHIFT": "J" } },
+      { "keyLabel": "K",  "layerMapping": { "NORMAL": "k",  "SHIFT": "K" } },
+      { "keyLabel": "L",  "layerMapping": { "NORMAL": "l",  "SHIFT": "L" } },
+      { "keyLabel": ";",  "layerMapping": { "NORMAL": ";",  "SHIFT": ":" } },
+      { "keyLabel": "'",  "layerMapping": { "NORMAL": "'",  "SHIFT": "\"" } },
+  
+      { "keyLabel": "Z",  "layerMapping": { "NORMAL": "z",  "SHIFT": "Z" } },
+      { "keyLabel": "X",  "layerMapping": { "NORMAL": "x",  "SHIFT": "X" } },
+      { "keyLabel": "C",  "layerMapping": { "NORMAL": "c",  "SHIFT": "C" } },
+      { "keyLabel": "V",  "layerMapping": { "NORMAL": "v",  "SHIFT": "V" } },
+      { "keyLabel": "B",  "layerMapping": { "NORMAL": "b",  "SHIFT": "B" } },
+      { "keyLabel": "N",  "layerMapping": { "NORMAL": "n",  "SHIFT": "N" } },
+      { "keyLabel": "M",  "layerMapping": { "NORMAL": "m",  "SHIFT": "M" } },
+      { "keyLabel": ",",  "layerMapping": { "NORMAL": ",",  "SHIFT": "<" } },
+      { "keyLabel": ".",  "layerMapping": { "NORMAL": ".",  "SHIFT": ">" } },
+      { "keyLabel": "/",  "layerMapping": { "NORMAL": "/",  "SHIFT": "?" } }
+    ],
+  
+    "modifiers": {
+      "SHIFT": "Shift"
+    },
+  
+    "deadkeys": [
+      {
+        "label": "^",
+        "transformations": {
+            "a": "â",
+            "e": "ê",
+            "i": "î",
+            "o": "ô",
+            "u": "û",
+            "A": "Â",
+            "E": "Ê",
+            "I": "Î",
+            "O": "Ô",
+            "U": "Û"
+        }
+      },
+      {
+        "label": "~",
+        "transformations": {
+            "a": "ã",
+            "n": "ñ",
+            "o": "õ",
+            "A": "Ã",
+            "N": "Ñ",
+            "O": "Õ"
+        }
+      }
+    ]
+}
