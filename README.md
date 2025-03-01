@@ -50,7 +50,8 @@ Analyse des n-grammes selon les critères de score donnée par le projet (SFB, L
 Retourne un score sous forme de float.
 
 
-### Autheurs
+### Auteurs
 
-[@FUJIZZ](https://github.com/FUJIZZ)
+[@FUJIZZ](https://github.com/FUJIZZ) 
+
 [@ZairKSM](https://github.com/ZairKSM)
