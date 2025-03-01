@@ -48,3 +48,9 @@ Chaque textes d'un corpus est traité dans un thread différent et retourne à l
 
 Analyse des n-grammes selon les critères de score donnée par le projet (SFB, LSB, ciseaux, alternances, roulements ...).
 Retourne un score sous forme de float.
+
+
+### Autheurs
+
+[@FUJIZZ](https://github.com/FUJIZZ)
+[@ZairKSM](https://github.com/ZairKSM)
